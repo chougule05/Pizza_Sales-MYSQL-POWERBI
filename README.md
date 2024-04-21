@@ -11,9 +11,6 @@ The objective of this project is to analyze the sales data of a pizza company to
 6. Insights and Recommendations: Based on the analysis, derive insights into the sales performance and customer behavior. Provide recommendations to improve sales and customer satisfaction.
 7. Final Presentation: Prepare a final presentation summarizing the analysis findings, insights, and recommendations. Present the findings to stakeholders for decision-making.
 
-## Benefits: 
-This project will help the pizza company understand its sales trends, customer preferences, and areas for improvement. It will enable data-driven decision-making to drive business growth and customer satisfaction.
-
 ### KPI’s Requirement
 We need to analyze key indicators for our pizza sales data to gain insights into our business performance. Specifically, we want to calculate the following metrics:
 1.	Total Revenue: The sum of total price of all pizza orders.
@@ -31,3 +28,6 @@ We would like to visualize various aspects of our pizza sales data to gain insig
 5.	Total Pizzas Sold by Pizza Category: Create a funnel chart that presents the total number of pizzas sold for each pizza category. This chart will allow us to compare the sales performance of different pizza category
 6.	Top 5 Best Sellers by Revenue, Total Quality and Total Orders: Create bar chart highlighting the top 5 best-selling pizzas based on revenue, total quality and total orders. This chart will help us identify the most popular pizza option.
 7.	Bottom 5 Worst Sellers by Revenue, Total Quality and Total Orders: Create bar chart highlighting the Bottom 5 worst-selling pizzas based on revenue, total quality and total orders. This chart will help us identify the underperforming of less popular pizza option.
+
+## Benefits: 
+This project will help the pizza company understand its sales trends, customer preferences, and areas for improvement. It will enable data-driven decision-making to drive business growth and customer satisfaction.
